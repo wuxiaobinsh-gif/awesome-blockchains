@@ -37,6 +37,8 @@ Contents:
 
 ## What's News?
 
+- [**RustChain**](https://rustchain.org/) - AI Agent DeFi blockchain with Rust smart contracts, Proof of Antiquity mining, MCP-compatible. GitHub: [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain)
+
 For blockchain books, see the new [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
 
 ### The Open Blockchains Book of the Year 2020 Award Goes To...
